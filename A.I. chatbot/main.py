@@ -8,12 +8,10 @@ class RuleBasedChatbot:
             "how are you": "I am good thanks for asking how are you my friend, {}!",
             "bye": "Goodbye, {}! Have a great day!",
             "what's your name": "My name is BuddyBot, {}.",
-            "tell me a joke": "joke to bhai yahi hain na ki tere pas koi bat karne wala nhi jo tu mere se bat karra hai lol hahahahaha!",
             "what is the weather today": "I'm sorry, I cannot provide real-time information, {}.",
             "who created you": "I was created by a Harpreet , {}.",
             "how old are you": "I don't have an age, I'm just a program, {}.",
             "what can you do": "I can provide information, answer questions, tell jokes, and more, {}!",
-            "mera dimag kharab hai me kya karu btao": "Apne aik wat ke chaped mar la hahahaha, {}",
             "default": "I'm sorry, I didn't understand that. Can you please rephrase, {}?"
         }
     
